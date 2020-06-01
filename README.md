@@ -1,2 +1,2 @@
-# TestRep1
-This is test repo to try git commands.
+# This is maven project having anagram java programe and POM file with shade plugin.
+
